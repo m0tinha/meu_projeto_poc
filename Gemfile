@@ -9,7 +9,7 @@ gem "tzinfo-data", platforms: %i[ windows jruby ]
 gem "bootsnap", require: false
 gem 'jwt'
 gem 'bcrypt', '~> 3.1.7'
-gem 'pg', '~> 1.5', '>= 1.5.0'
+gem 'pg', '~> 1.6'
 
 
 
